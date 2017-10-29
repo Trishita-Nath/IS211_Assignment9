@@ -1,3 +1,5 @@
+#This program is designed such that it takes todays date and display the temperatures of all days of the month making 2 categories. Days which are already passed and future days.
+
 from bs4 import BeautifulSoup
 import urllib
 import datetime
